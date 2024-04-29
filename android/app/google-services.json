@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "844878168440",
+    "project_id": "tareafirebasecp",
+    "storage_bucket": "tareafirebasecp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844878168440:android:ae873c385907e1a460088d",
+        "android_client_info": {
+          "package_name": "com.tarea7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBADmkEhufR2Ktob9U3KBbOEjPf6c5c7Z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
